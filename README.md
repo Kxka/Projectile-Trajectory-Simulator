@@ -9,5 +9,5 @@
 - Plots velocity vs. angle
 - Custom graph styling
 
-## 🛠 Requirements
+## Requirements
 - Octave (or MATLAB)
